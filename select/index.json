@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "曖昧サイボーグ",
+  "base_artist": "Neko Hacker",
+  "createdAt": "2026-02-18T14:11:54.787026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ feat. うごくちゃん & JungMato",
+      "artist": "Neko Hacker feat. うごくちゃん & JungMato",
+      "has_synced": false,
+      "path": "select/01_曖昧サイボーグ_feat._うごくちゃん_&_JungMato_Neko_Hacker_feat._うごくちゃん_&_JungMato.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ feat. うごくちゃん & JungMato",
+      "artist": "Neko Hacker",
+      "has_synced": false,
+      "path": "select/02_曖昧サイボーグ_feat._うごくちゃん_&_JungMato_Neko_Hacker.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ feat. うごくちゃん & JungMato",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/03_曖昧サイボーグ_feat._うごくちゃん_&_JungMato_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ",
+      "artist": "Neko Hacker feat. うごくちゃん & JungMato",
+      "has_synced": true,
+      "path": "select/04_曖昧サイボーグ_Neko_Hacker_feat._うごくちゃん_&_JungMato.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ (feat. うごくちゃん & JungMato)",
+      "artist": "Neko Hacker, Ugokuchan, JungMato",
+      "has_synced": true,
+      "path": "select/05_曖昧サイボーグ_(feat._うごくちゃん_&_JungMato)_Neko_Hacker,_Ugokuchan,_JungMato.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ (feat. うごくちゃん & JungMato)",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/06_曖昧サイボーグ_(feat._うごくちゃん_&_JungMato)_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ",
+      "artist": "Neko Hacker",
+      "has_synced": false,
+      "path": "select/07_曖昧サイボーグ_Neko_Hacker.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/08_曖昧サイボーグ_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "曖昧サイボーグ / Aimai Cyborg",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/09_曖昧サイボーグ___Aimai_Cyborg_Neko_Hacker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曖昧サイボーグ",
+      "artist": "Neko Hacker, うごくちゃん, JungMato",
+      "has_synced": false,
+      "path": "select/pl_01_曖昧サイボーグ_Neko_Hacker,_うごくちゃん,_JungMato.txt"
+    }
+  ]
+}
